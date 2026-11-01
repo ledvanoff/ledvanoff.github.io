@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ledvanoff.github.io/l1dder/sitemap.xml

@@ -1,0 +1,7 @@
+# Oleg Ledvanov
+
+> IT architect and Head of Engineering, author of L1DDER.
+
+## Projects
+
+- [L1DDER](https://ledvanoff.github.io/l1dder/llms.txt): spec-driven development framework for AI coding agents
